@@ -12,6 +12,6 @@
 
 ## Answers
 
-By [Coroller Ilona]https://gitlab.istic.univ-rennes1.fr/icoroller and [Bouvier Benjamin]https://gitlab.istic.univ-rennes1.fr/bebouvier
+By [Coroller Ilona](https://gitlab.istic.univ-rennes1.fr/icoroller) and [Bouvier Benjamin](https://gitlab.istic.univ-rennes1.fr/bebouvier)
 
 1. 
