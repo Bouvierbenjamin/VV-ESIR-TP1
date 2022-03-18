@@ -14,4 +14,17 @@
 
 By [Coroller Ilona](https://gitlab.istic.univ-rennes1.fr/icoroller) and [Bouvier Benjamin](https://gitlab.istic.univ-rennes1.fr/bebouvier)
 
-1. 
+1. Rennes buses were stopped by a bug.
+>The 22th february the drivers couldn’t know their routes due to an update of servers during the night.
+Only **30%** of the drivers were able to be on time between 5:00 and 8:30.
+To speculate on the bug, we don't have enough information to know if it was preventable. So maybe they didn't do enough testing, or test all the possibilities, and then the bug could have been avoided.
+
+[link to the article](https://www.francebleu.fr/infos/faits-divers-justice/les-bus-de-rennes-a-l-arret-a-cause-d-un-bug-informatique-1645513653)
+
+
+3. Chaos engineering 
+   
+what are the requirements for these experiments, what are the variables they observe and what are the main results they obtained.
+
+>Chaos engineering is a way to test the robustness of a service or a software. The idea is to crash a part to see if the application can withstand turbulent conditions. So any online project could be tested with this way to verify its capacity so stay online every time. Diferents companies are already using this method such as amazon, facebook, google… For exemple as metric, netflix use SPS , for (stream) starts per second and new account signups per second. There is a strong, obvious link between these metrics and the availability of the system. This metrics depends a lot of from the domain of the application. If you are an e commence xwebsite you could use as metric the umber of completed purchases per second, where an ad­serving service might use numbers of ads viewed by users per second.
+
