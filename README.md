@@ -1,6 +1,6 @@
-# Report of Validation and Verification: Practical Session #1
+# Report of Validation and Verification: Practical Session
 
-## Validation and Verification: Practical Session #1
+## Validation and Verification: Practical Session
 
 This practical session will help to better understand validation and verification in practice, while being exposed to scientific materials.
 
